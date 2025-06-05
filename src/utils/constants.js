@@ -14,3 +14,4 @@ export const TaskStatusEnum = {
 
 export const availableTaskStatuses = Object.values(TaskStatusEnum);
 
+export const DB_NAME = "Kanban_Board";
